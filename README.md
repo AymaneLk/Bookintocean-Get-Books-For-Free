@@ -12,7 +12,7 @@ and 0.4 million magazine issues** that can be downloaded in different formats in
 ### 1- Save a book in your library:
 ![image](https://user-images.githubusercontent.com/24440328/129356358-e0b46ec4-06f6-4edb-8492-a276d3938eec.png)
 
-With **Bookintocean** you can save a book in your library in order to read later on. All you have to do is **write book's name in the input field and write the author's name (optional) then click ADD BOOK, then you can see the book's name and author in your library with a download link when you want to read it.**
+With **Bookintocean** you can save a book in your library in order to remember to read it later on. All you have to do is **write book's name in the input field and write the author's name (optional) then click ADD BOOK, then you can see the book's name and author in your library with a download link when you want to read it.**
 
 ### 2- Download a book directly:
 With **Bookintocean** you could also download a book directly just by **writing the book's name in the input field** and press **Download Book** then you will get a **download link from libgen.me** in a new tab.
