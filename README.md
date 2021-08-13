@@ -1,6 +1,6 @@
 # Bookintocean, ***Outside of a dog, a book is a man's best friend.***
 
-Answer these two questions :  **Do you need a book? Do you want to save a book in your library to read lated on ?**
+Answer these two questions :  **Do you need a book? Do you want to save a book in your library in order to read later on ?**
 ### IF YES, THEN YOU SHOULD USE BOOKINTOCEAN!
 
 ## What's Bookintocean?
