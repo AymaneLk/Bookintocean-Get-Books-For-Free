@@ -1,5 +1,7 @@
 # Bookintocean, ***Outside of a dog, a book is a man's best friend.***
 
+## IF YOU FIND IT USEFUL, DON'T FORGET TO STAR!
+
 Answer these two questions :  **Do you need a book 🤔? Do you want to save a book in your library in order to read later on 🤔?**
 ### THEN YOU SHOULD USE BOOKINTOCEAN 😁!
 
