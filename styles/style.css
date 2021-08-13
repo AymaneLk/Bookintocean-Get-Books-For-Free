@@ -1,0 +1,111 @@
+/********************* VARIABLES **************************/
+:root {
+    --primary: #18191A;
+    --secondary: #E30425;
+}
+
+*, *::before, *::after {
+    font-family: 'Poppins', sans-serif;
+}
+
+body, html {
+    margin: 0;   
+    padding: 0;
+}
+
+body {
+    min-width: 400px;
+    color: #111;
+    width: 800px;
+    max-height: 700px;
+}
+
+body::after {
+    content: "";
+    background-image: url('../img/wave.svg');
+    position: absolute;
+    bottom: 0;
+    background-size: cover;
+    display: block;
+    width: 100%;
+    height: 40%;
+    z-index: -9999;
+}
+
+input, button {
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary);
+}
+
+h3 {
+    font-size: 1.6rem;
+    text-transform: capitalize;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: var(--primary);
+}
+
+/************* STYLING INTRO SECTION ***********/
+
+.intro-section {
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 1px 20px var(--primary);
+    border-radius: 5px;
+    background: var(--secondary);
+}
+
+.intro-section h1{
+    font-size: 1.5rem;
+    font-weight: 200;
+    padding: .2rem 2rem;
+    border-radius: 80px;
+    border: none;
+}
+
+.intro-section h1 a{
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+/*********** STYLING BOOKS SECTION ************/
+section {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.add-book {
+    margin-bottom: 200px;
+}
+
+section .add-book .book-infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section #stored-books {
+    border: 1px solid #111;
+}
+
+section .add-book input[type="text"] {
+    margin-bottom: 10px;
+    width: 300px;
+    padding: .4rem 0;
+    padding-left: 10px;
+    border-color: var(--secondary);
+    outline: none;
+}
+
+button{
+    font-weight: 400;
+    cursor: pointer;
+}
+
+section .add-book input[type="submit"]:hover, button:hover {
+    letter-spacing: .5px;
+}

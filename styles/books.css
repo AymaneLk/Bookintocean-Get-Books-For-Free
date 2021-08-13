@@ -1,0 +1,40 @@
+body {
+    width: 780px;
+}
+
+body::after {
+    display: none;
+}
+
+.nbr-books {
+    color: var(--secondary);
+}
+
+.books-list {
+    margin: 6rem;
+    border: 1px solid var(--secondary);
+    border-radius: 30px;
+    position: relative;
+}
+
+p, a{
+    display: inline-block;
+    text-transform: capitalize;
+}
+
+.books-list h3 {
+    padding: 1rem;
+}
+
+.books-list button{
+    margin-bottom: 15px;
+    background: none;
+}
+
+li .book-name, li .book-author {
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+
